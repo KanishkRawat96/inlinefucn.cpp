@@ -1,0 +1,1 @@
+# inlinefucn.cpp
